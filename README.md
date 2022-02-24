@@ -4,4 +4,4 @@ Proyecto cliente - consultores
 Contiene
 
 - Contiene el proyecto de una pasteleria que propuso un compañero
-- Ralizacion de pruebas unitarias 
+- Ralización de pruebas unitarias con JUNIT
